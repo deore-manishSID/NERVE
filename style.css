@@ -999,7 +999,7 @@ media queries section */
 
 }
 
-@media (max-width: 395px) {
+@media (max-width: 490px) {
     /* .holiday-img img {
         width: 82%;
         height: auto;
@@ -1067,7 +1067,7 @@ media queries section */
     }
 
 }
-@media (max-width: 480px){
+@media (max-width: 420px){
     .section{
         min-height: 80vh;
     }
@@ -1129,6 +1129,15 @@ media queries section */
         font-weight: 400;
         font-family: 'source serif 4';
     }
+    .input {
+    padding: 7px 24px 7px 15px;
+    font-size: 14px;
+    background-color: #dbe6ee;
+    color: black;
+    border-radius: 5px;
+    outline: none;
+    border: 1px solid grey;
+}
 
 }
 
